@@ -22,11 +22,11 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 @Entity
 public class Location {
 
-    public enum GpsStatus {
+    enum GpsStatus {
         EXCELLENT, OK, UNRELIABLE, BAD, NOFIX, UNKNOWN;
     }
 
-    public enum VehicleMovementType {
+    enum VehicleMovementType {
         STOPPED, IN_MOTION;
 
         public boolean isMoving() {
@@ -37,16 +37,13 @@ public class Location {
     @Id
     @GeneratedValue
     private Long id;
-
     @Embedded
     @AttributeOverride(name = "engineMake", column = @Column(name = "unit_engine_make"))
     private final UnitInfo unitInfo;
-
     @Embedded
     @AttributeOverrides({
             @AttributeOverride(name = "fmi", column = @Column(name = "unit_fmi")),
             @AttributeOverride(name = "spn", column = @Column(name = "unit_spn"))})
-
     private UnitFault unitFault;
     private double latitude;
     private double longitude;

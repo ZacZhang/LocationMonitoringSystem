@@ -1,0 +1,9 @@
+Location.class
+Location$GpsStatus.class
+FleetLocationServiceApplication.class
+UnitFault.class
+Location$VehicleMovementType.class
+FaultCode.class
+FleetBulkUploadController.class
+UnitInfo.class
+LocationRepository.class

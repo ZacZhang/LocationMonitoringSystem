@@ -19,4 +19,5 @@ public class UnitFault {
     private UnitFault() {
         this.vin = "";
     }
+
 }
