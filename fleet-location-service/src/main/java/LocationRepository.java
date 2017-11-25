@@ -14,8 +14,3 @@ public interface LocationRepository extends PagingAndSortingRepository<Location,
     Page<Location> findByUnitInfoUnitVin(@Param("vin") String vin, Pageable pageable);
 
 }
-
-//public interface LocationRepository extends JpaRepository<Location, Long> {
-//    Page<Location> findByVehicleMovementType(@Param("movementType") Location.VehicleMovementType movementType, Pageable pageable);
-//    Page<Location> findByUnitInfoUnitVin(@Param("unitVin") String unitVin, Pageable pageable);
-//}
