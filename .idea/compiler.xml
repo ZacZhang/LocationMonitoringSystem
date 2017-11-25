@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LocationMonitoringSystem" />
+        <module name="fleet-location-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="LocationMonitoringSystem" target="1.5" />
+      <module name="fleet-location-service" target="1.8" />
+      <module name="LocationMonitoringSystem" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

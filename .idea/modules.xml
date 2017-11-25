@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LocationMonitoringSystem.iml" filepath="$PROJECT_DIR$/LocationMonitoringSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" filepath="$PROJECT_DIR$/fleet-location-service/fleet-location-service.iml" />
     </modules>
   </component>
 </project>
