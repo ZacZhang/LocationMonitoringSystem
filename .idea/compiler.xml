@@ -12,6 +12,7 @@
         <module name="fleet-location-service" />
         <module name="fleet-location-simulator" />
         <module name="fleet-location-updater" />
+        <module name="service-location-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="fleet-location-simulator" target="1.8" />
       <module name="fleet-location-updater" target="1.8" />
       <module name="LocationMonitoringSystem" target="1.8" />
+      <module name="service-location-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
