@@ -138,7 +138,9 @@ function icon(symbol, color, flash, size) {
     size = size || [35, 90];
     color = (color || '7e7e7e').replace('#', '');
     var icon = L.icon({
+        // iconUrl: 'http://a.tiles.mapbox.com/v4/marker/pin-l' + (symbol ? "-" + symbol : '') + '+' + color + (L.Browser.retina ? '@2x' : '') + '.png?access_token=' + mapToken,
         iconUrl: 'http://a.tiles.mapbox.com/v4/marker/pin-l' + (symbol ? "-" + symbol : '') + '+' + color + (L.Browser.retina ? '@2x' : '') + '.png?access_token=' + mapToken,
+
         iconSize: [35, 90],
         iconAnchor: [size[0] / 2, size[1] / 2],
         popupAnchor: [0, -size[1] / 2],
@@ -818,7 +820,8 @@ function setupMapLegend() {
 
     info.onAdd = function (map) {
         this._div = L.DomUtil.create('div', 'info');
-        var img = '<img src="https://www.mapbox.com/maki/renders/car-18' + (L.Browser.retina ? '@2x' : '') + '.png" height="18" width="18">';
+        // var img = '<img src="https://www.mapbox.com/maki/renders/car-18' + (L.Browser.retina ? '@2x' : '') + '.png" height="18" width="18">';
+        var img = '<img src="http://www.clker.com/cliparts/S/G/R/n/X/M/car-icon-th.png" height="18" width="18">';
         this._div.innerHTML = '<h4 style="color: black">Spring Uber Vehicles</h4>'
             + '<i class="faa-flash animated">' + img + '</i> Moving &nbsp;&nbsp;&nbsp;&nbsp; ' + img + ' Stopped <br/>'
             + '<i class="fa fa-map-marker" style="color: green;"></i> Normal &nbsp;&nbsp;'
