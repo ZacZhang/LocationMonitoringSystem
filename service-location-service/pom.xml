@@ -12,7 +12,7 @@
     <artifactId>service-location-service</artifactId>
 
     <properties>
-        <start-class>FleetLocationServiceApplication</start-class>
+        <start-class>code.FleetLocationServiceApplication</start-class>
     </properties>
 
     <dependencies>

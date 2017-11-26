@@ -1,0 +1,13 @@
+code/WebSocketConfig.class
+code/model/ServiceLocation.class
+code/service/impl/DefaultServiceLocationService$1.class
+code/service/impl/DefaultServiceLocationService$2.class
+code/web/WebSocketApi.class
+code/model/FaultCode.class
+code/FleetLocationUpdaterApplication.class
+code/service/impl/DefaultServiceLocationService.class
+code/model/VehicleStatus.class
+code/model/CurrentPosition.class
+code/model/Point.class
+code/FleetLocationUpdaterSink.class
+code/service/ServiceLocationService.class
