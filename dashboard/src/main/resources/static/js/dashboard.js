@@ -301,7 +301,7 @@ function showVehicles() {
             if (vehicle.latitude && vehicle.longitude) {
                 createMarker(vehicle);
 //				setTimeout(function() {
-////					if (vehicle.vehicleMovementType === 'IN_MOTION') {
+////					if (vehicle.runnerMovementType === 'IN_MOTION') {
 //						liveGpsUpdate(vehiclesIndex[vin]);
 ////					}
 //					liveServiceUpdate(vehiclesIndex[vin]);
@@ -552,7 +552,7 @@ function setupMiniMapMarker(reZoom) {
         $('#rentmeUnitInfo').show();
         $("#unitNumber").text(vehicle.unitInfo.unitNumber);
         $("#customerName").text(vehicle.unitInfo.customerName);
-        $("#engineMake").text(vehicle.unitInfo.engineMake);
+        $("#bandMake").text(vehicle.unitInfo.engineMake);
     } else {
         $('#rentmeUnitInfo').hide();
     }
