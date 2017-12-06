@@ -13,12 +13,26 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package code.service;
 
-import code.model.CurrentPosition;
+package code.model;
 
-public interface ServiceLocationService {
+import lombok.AccessLevel;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
-	void updateServiceLocations(CurrentPosition currentPosition);
+
+@Data
+@NoArgsConstructor(access = AccessLevel.PUBLIC)
+public class FaultCode {
+
+	private String bandMake;
+	private String faultCode;
+	private String faultCodeId;
+	private String faultCodeClassification;
+	private String description;
+	private String repairInstructions;
+	private String fmi;
+	private String sa;
+	private String bfr;
 
 }

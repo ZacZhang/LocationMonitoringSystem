@@ -4,10 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LocationMonitoringSystem.iml" filepath="$PROJECT_DIR$/LocationMonitoringSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" filepath="$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" />
       <module fileurl="file://$PROJECT_DIR$/running-location-distribution/running-location-distribution.iml" filepath="$PROJECT_DIR$/running-location-distribution/running-location-distribution.iml" />
       <module fileurl="file://$PROJECT_DIR$/running-location-service/running-location-service.iml" filepath="$PROJECT_DIR$/running-location-service/running-location-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/running-location-simulator/running-location-simulator.iml" filepath="$PROJECT_DIR$/running-location-simulator/running-location-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/running-location-updater/running-location-updater.iml" filepath="$PROJECT_DIR$/running-location-updater/running-location-updater.iml" />
       <module fileurl="file://$PROJECT_DIR$/supply-location-service/supply-location-service.iml" filepath="$PROJECT_DIR$/supply-location-service/supply-location-service.iml" />
     </modules>
   </component>

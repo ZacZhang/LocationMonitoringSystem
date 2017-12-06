@@ -20,9 +20,9 @@
         <module>running-location-service</module>
         <module>running-location-simulator</module>
         <module>running-location-distribution</module>
-        <module>fleet-location-updater</module>
-        <module>dashboard</module>
+        <module>running-location-updater</module>
         <module>supply-location-service</module>
+        <module>dashboard</module>
     </modules>
 
     <properties>
@@ -62,7 +62,6 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
-
         <repository>
             <id>spring-milestones</id>
             <name>Spring Milestones</name>
@@ -82,11 +81,10 @@
                 <enabled>true</enabled>
             </snapshots>
         </pluginRepository>
-
         <pluginRepository>
             <id>spring-milestones</id>
             <name>Spring Milestones</name>
-            <url>https://repo.spring.io/milestones</url>
+            <url>https://repo.spring.io/milestone</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
