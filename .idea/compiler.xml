@@ -23,7 +23,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dashboard" target="1.5" />
+      <module name="dashboard" target="1.8" />
       <module name="fleet-eureka-server" target="1.6" />
       <module name="fleet-location-ingest" target="1.5" />
       <module name="fleet-location-service" target="1.8" />

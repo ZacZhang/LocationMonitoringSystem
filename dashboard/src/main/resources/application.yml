@@ -6,9 +6,9 @@ stomp:
 
 zuul:
   routes:
-    fleet-location-code.service:
-      path: /fleet-location-code.service/**
+    running-location-service:
+      path: /running-location-service/**
       url: http://localhost:9000
-    code.service-location-code.service:
-      path: /code.service-location-code.service/**
+    supply-location-service:
+      path: /supply-location-service/**
       url: http://localhost:9001

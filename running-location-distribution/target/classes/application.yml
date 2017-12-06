@@ -2,8 +2,8 @@ server:
   port: 9006
 spring:
   application:
-    name: fleet-location-ingest
+    name: running-location-distribution
   cloud:
     stream:
       bindings:
-        output: vehicles
+        output: locations

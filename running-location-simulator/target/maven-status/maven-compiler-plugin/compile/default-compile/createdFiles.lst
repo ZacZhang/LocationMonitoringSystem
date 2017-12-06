@@ -1,5 +1,4 @@
 code/model/DirectionInput.class
-code/model/ServiceLocation.class
 code/service/impl/DefaultPathService$2.class
 code/service/GpsSimulatorFactory.class
 code/rest/LocationSimulatorRestApi.class
@@ -7,18 +6,19 @@ code/task/GpsSimulator.class
 code/model/Leg.class
 code/support/FaultCodeUtils.class
 code/task/GpsSimulatorInstance.class
+code/model/SupplyLocation.class
 code/service/impl/DefaultPositionService.class
 code/model/PositionInfo.class
 code/service/impl/DefaultPathService$1.class
 code/service/PositionService.class
 code/support/NavUtils.class
 code/task/GpsSimulator$1.class
+code/model/RunnerStatus.class
 code/service/PathService.class
 code/model/FaultCode.class
 code/model/GpsSimulatorRequest.class
 code/GpsSimulatorApplication.class
 code/service/impl/DefaultPathService.class
-code/model/VehicleStatus.class
 code/model/CurrentPosition.class
 code/service/impl/DefaultGpsSimulatorFactory.class
 code/model/Point.class

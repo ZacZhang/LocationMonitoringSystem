@@ -138,7 +138,9 @@ function icon(symbol, color, flash, size) {
     size = size || [35, 90];
     color = (color || '7e7e7e').replace('#', '');
     var icon = L.icon({
+        // iconUrl: 'http://a.tiles.mapbox.com/v4/marker/pin-l' + (symbol ? "-" + symbol : '') + '+' + color + (L.Browser.retina ? '@2x' : '') + '.png?access_token=' + mapToken,
         iconUrl: 'http://a.tiles.mapbox.com/v4/marker/pin-l' + (symbol ? "-" + symbol : '') + '+' + color + (L.Browser.retina ? '@2x' : '') + '.png?access_token=' + mapToken,
+
         iconSize: [35, 90],
         iconAnchor: [size[0] / 2, size[1] / 2],
         popupAnchor: [0, -size[1] / 2],
@@ -299,7 +301,7 @@ function showVehicles() {
             if (vehicle.latitude && vehicle.longitude) {
                 createMarker(vehicle);
 //				setTimeout(function() {
-////					if (vehicle.vehicleMovementType === 'IN_MOTION') {
+////					if (vehicle.runnerMovementType === 'IN_MOTION') {
 //						liveGpsUpdate(vehiclesIndex[vin]);
 ////					}
 //					liveServiceUpdate(vehiclesIndex[vin]);
@@ -550,7 +552,7 @@ function setupMiniMapMarker(reZoom) {
         $('#rentmeUnitInfo').show();
         $("#unitNumber").text(vehicle.unitInfo.unitNumber);
         $("#customerName").text(vehicle.unitInfo.customerName);
-        $("#engineMake").text(vehicle.unitInfo.engineMake);
+        $("#bandMake").text(vehicle.unitInfo.engineMake);
     } else {
         $('#rentmeUnitInfo').hide();
     }

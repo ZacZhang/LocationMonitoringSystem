@@ -2,21 +2,12 @@ server:
   port: 9005
 spring:
   application:
-    name: fleet-location-simulator
+    name: running-location-simulator
 gpsSimmulator:
   googleApiKey: AIzaSyDvdz2cb4zfp8NQVFu4kdzXFoIcHG744I4
 
 com:
   zac:
-    fleet:
+    running:
       location:
-        ingest: http://localhost:9006
----
-spring:
-  profiles: test
-ribbon:
-  eureka:
-    enabled: false
-fleet-location-ingest:
-  ribbon:
-    listOfServers: localhost:9006
+        distribution: http://localhost:9006

@@ -1,4 +1,6 @@
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/service-location-service/src/main/java/code/ServiceLocationRepository.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/service-location-service/src/main/java/code/ServiceLocation.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/service-location-service/src/main/java/code/ServiceLocationBulkUploadController.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/service-location-service/src/main/java/code/ServiceLocationServiceApplication.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/supply-location-service/src/main/java/code/SupplyLocationBulkUploadController.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/supply-location-service/src/main/java/code/SupplyLocationService.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/supply-location-service/src/main/java/code/SupplyLocation.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/supply-location-service/src/main/java/code/SupplyLocationServiceImpl.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/supply-location-service/src/main/java/code/SupplyLocationServiceApplication.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/supply-location-service/src/main/java/code/SupplyLocationRepository.java
