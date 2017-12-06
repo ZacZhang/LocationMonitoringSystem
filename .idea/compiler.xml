@@ -13,8 +13,15 @@
         <module name="fleet-location-simulator" />
         <module name="fleet-location-updater" />
         <module name="running-location-service" />
+        <module name="running-location-simulator" />
         <module name="service-location-service" />
         <module name="supply-location-service" />
+      </profile>
+      <profile name="Annotation profile for Spring Cloud Nike Running App" enabled="true">
+        <sourceOutputDir name="../fleet-location-ingest/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../fleet-location-ingest/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="running-location-distribution" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,7 +33,9 @@
       <module name="fleet-location-updater" target="1.5" />
       <module name="LocationMonitoringSystem" target="1.8" />
       <module name="platform" target="1.8" />
+      <module name="running-location-distribution" target="1.5" />
       <module name="running-location-service" target="1.8" />
+      <module name="running-location-simulator" target="1.8" />
       <module name="service-location-service" target="1.5" />
       <module name="supply-location-service" target="1.8" />
     </bytecodeTargetLevel>

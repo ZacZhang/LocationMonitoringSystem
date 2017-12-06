@@ -2,157 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f862e23-9df1-46eb-abfa-3ddeb7eb94f2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_3_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/supply-location-service/supplyLocations.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/supply-location-service/upload-supplyLocations.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_maps_google_maps_services_0_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka2_client_shaded_2_0_0_rc_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_annotations_1_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_4_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_4_18.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_9_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_9_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spatial4j_spatial4j_0_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_urlconnection_2_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_primitives_commons_primitives_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_micromata_jak_JavaAPIforKml_2_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_25_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_0_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_sprockets_sprockets_2_6_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_1_0_M2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_1_0_M2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_1_0_M2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_1_0_M2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_4_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_http_4_2_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_3_3_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/RunnerStatus.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/SupplyLocation.java" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_maps_google_maps_services_0_1_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_18.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_4_18.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_4_18.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_9_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_9_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_1_0_rc_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_5_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_1_0_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_spatial4j_spatial4j_0_4_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_4_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_urlconnection_2_4_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_4_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_primitives_commons_primitives_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_micromata_jak_JavaAPIforKml_2_2_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_0_14.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_8_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_sprockets_sprockets_2_6_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_5_2_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_5_2_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_1_3_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cloud_connectors_1_3_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_hateoas_1_3_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_3_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_cloudfoundry_connector_1_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_core_1_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_heroku_connector_1_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_localconfig_connector_1_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_1_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_spring_service_connector_1_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_1_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_1_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_1_0_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_1_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_1_0_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_1_0_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_spi_1_0_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_codec_1_0_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_tuple_1_0_0_M2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_core_1_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_0_0_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_8_0_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_4_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_4_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_http_4_2_1_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_4_2_0_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_2_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_2_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_2_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_2_2_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_3_3_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_popup_overlay_1_7_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_leaflet_0_7_5.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboard/dashboard.iml" afterPath="$PROJECT_DIR$/dashboard/dashboard.iml" />
-      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" afterPath="$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" />
-      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" afterPath="$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" />
-      <change beforePath="$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" afterPath="$PROJECT_DIR$/fleet-location-updater/fleet-location-updater.iml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/fleet-location-ingest.iml" afterPath="$PROJECT_DIR$/running-location-distribution/running-location-distribution.iml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/pom.xml" afterPath="$PROJECT_DIR$/running-location-distribution/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/src/main/java/code/FleetLocationIngestApplication.java" afterPath="$PROJECT_DIR$/running-location-distribution/src/main/java/code/FleetLocationIngestApplication.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/src/main/java/code/VehiclePositionsSource.java" afterPath="$PROJECT_DIR$/running-location-distribution/src/main/java/code/VehiclePositionsSource.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/running-location-distribution/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/src/main/resources/public/index.html" afterPath="$PROJECT_DIR$/running-location-distribution/src/main/resources/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/classes/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/classes/code/FleetLocationIngestApplication.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/classes/code/VehiclePositionsSource.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/classes/public/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/fleet-location-ingest-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/fleet-location-ingest-1.0-SNAPSHOT.jar.original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-ingest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/fleet-location-simulator.iml" afterPath="$PROJECT_DIR$/running-location-simulator/running-location-simulator.iml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/pom.xml" afterPath="$PROJECT_DIR$/running-location-simulator/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/GpsSimulatorApplication.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/GpsSimulatorApplication.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/CurrentPosition.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/CurrentPosition.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/DirectionInput.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/DirectionInput.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/FaultCode.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/FaultCode.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/GpsSimulatorRequest.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/GpsSimulatorRequest.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/Leg.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/Leg.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/Point.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/Point.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/PositionInfo.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/PositionInfo.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/ServiceLocation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/SimulatorFixture.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/SimulatorFixture.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/model/VehicleStatus.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/rest/LocationSimulatorRestApi.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/rest/LocationSimulatorRestApi.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/service/GpsSimulatorFactory.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/GpsSimulatorFactory.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/service/PathService.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/PathService.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/service/PositionService.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/PositionService.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/service/impl/DefaultGpsSimulatorFactory.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultGpsSimulatorFactory.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/service/impl/DefaultPathService.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPathService.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/service/impl/DefaultPositionService.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPositionService.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/support/FaultCodeUtils.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/support/FaultCodeUtils.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/support/NavUtils.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/support/NavUtils.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/task/GpsSimulator.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/task/GpsSimulator.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/task/GpsSimulatorInstance.java" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/java/code/task/GpsSimulatorInstance.java" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/resources/directions.json" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/resources/directions.json" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/resources/fixture.json" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/resources/fixture.json" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/src/main/resources/public/index.html" afterPath="$PROJECT_DIR$/running-location-simulator/src/main/resources/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/GpsSimulatorApplication.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/CurrentPosition.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/DirectionInput.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/FaultCode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/GpsSimulatorRequest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/Leg.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/Point.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/PositionInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/ServiceLocation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/SimulatorFixture.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/model/VehicleStatus.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/rest/LocationSimulatorRestApi.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/GpsSimulatorFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/PathService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/PositionService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/impl/DefaultGpsSimulatorFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/impl/DefaultPathService$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/impl/DefaultPathService$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/impl/DefaultPathService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/service/impl/DefaultPositionService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/support/FaultCodeUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/support/NavUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/task/GpsSimulator$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/task/GpsSimulator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/code/task/GpsSimulatorInstance.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/directions.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/fixture.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/classes/public/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/fleet-location-simulator-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/fleet-location-simulator-1.0-SNAPSHOT.jar.original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fleet-location-simulator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/running-location-service.iml" afterPath="$PROJECT_DIR$/running-location-service/running-location-service.iml" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/src/main/java/code/LocationRepository.java" afterPath="$PROJECT_DIR$/running-location-service/src/main/java/code/LocationRepository.java" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/application.yml" afterPath="$PROJECT_DIR$/running-location-service/target/classes/application.yml" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/FaultCode.class" afterPath="$PROJECT_DIR$/running-location-service/target/classes/code/FaultCode.class" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/FleetBulkUploadController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/FleetLocationServiceApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/Location$GpsStatus.class" afterPath="$PROJECT_DIR$/running-location-service/target/classes/code/Location$GpsStatus.class" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/Location$VehicleMovementType.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/Location.class" afterPath="$PROJECT_DIR$/running-location-service/target/classes/code/Location.class" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/LocationRepository.class" afterPath="$PROJECT_DIR$/running-location-service/target/classes/code/LocationRepository.class" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/UnitFault.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/classes/code/UnitInfo.class" afterPath="$PROJECT_DIR$/running-location-service/target/classes/code/UnitInfo.class" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/fleet-location-service-1.0-SNAPSHOT.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/fleet-location-service-1.0-SNAPSHOT.jar.original" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/running-location-service/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/running-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/running-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/running-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/pom.xml" afterPath="$PROJECT_DIR$/supply-location-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/service-location-service.iml" afterPath="$PROJECT_DIR$/supply-location-service/supply-location-service.iml" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/src/main/java/code/ServiceLocation.java" afterPath="$PROJECT_DIR$/supply-location-service/src/main/java/code/SupplyLocation.java" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/src/main/java/code/ServiceLocationBulkUploadController.java" afterPath="$PROJECT_DIR$/supply-location-service/src/main/java/code/SupplyLocationBulkUploadController.java" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/src/main/java/code/ServiceLocationRepository.java" afterPath="$PROJECT_DIR$/supply-location-service/src/main/java/code/SupplyLocationRepository.java" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/src/main/java/code/ServiceLocationServiceApplication.java" afterPath="$PROJECT_DIR$/supply-location-service/src/main/java/code/SupplyLocationServiceApplication.java" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/supply-location-service/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/classes/application.yml" afterPath="$PROJECT_DIR$/supply-location-service/target/classes/application.yml" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/classes/code/ServiceLocation.class" afterPath="$PROJECT_DIR$/supply-location-service/target/classes/code/ServiceLocation.class" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/classes/code/ServiceLocationBulkUploadController.class" afterPath="$PROJECT_DIR$/supply-location-service/target/classes/code/ServiceLocationBulkUploadController.class" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/classes/code/ServiceLocationRepository.class" afterPath="$PROJECT_DIR$/supply-location-service/target/classes/code/ServiceLocationRepository.class" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/classes/code/ServiceLocationServiceApplication.class" afterPath="$PROJECT_DIR$/supply-location-service/target/classes/code/ServiceLocationServiceApplication.class" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/supply-location-service/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/supply-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/supply-location-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/supply-location-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/service-location-service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/supply-location-service/target/service-location-service-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/service-location-service/target/service-location-service-1.0-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/supply-location-service/target/service-location-service-1.0-SNAPSHOT.jar.original" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -166,6 +172,7 @@
     <ignored path="$PROJECT_DIR$/fleet-eureka-server/target/" />
     <ignored path="$PROJECT_DIR$/running-location-service/target/" />
     <ignored path="$PROJECT_DIR$/supply-location-service/target/" />
+    <ignored path="$PROJECT_DIR$/running-location-simulator/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -178,28 +185,88 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/supply-location-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="60">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/resources/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/running-location-simulator/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-339">
-              <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            <state relative-caret-position="321">
+              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/running-location-service/pom.xml">
+      <file leaf-file-name="LocationSimulatorRestApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/rest/LocationSimulatorRestApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="-1149">
+              <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#2366#2367#0" expanded="true" />
+                <element signature="e#2409#2410#0" expanded="true" />
+                <element signature="e#3085#3086#0" expanded="true" />
+                <element signature="e#3140#3141#0" expanded="true" />
+                <element signature="e#3234#3235#0" expanded="true" />
+                <element signature="e#3289#3290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultGpsSimulatorFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultGpsSimulatorFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultPathService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPathService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="e#1398#1399#0" expanded="true" />
+                <element signature="e#1421#1422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/running-location-distribution/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -243,34 +310,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/FleetLocationUpdaterSink.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/model/CurrentPosition.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/model/FaultCode.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/model/package-info.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/model/Point.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/model/ServiceLocation.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/model/VehicleStatus.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/service/ServiceLocationService.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/service/impl/DefaultServiceLocationService.java" />
-        <option value="$PROJECT_DIR$/dashboard/src/main/java/DashboardApplication.java" />
-        <option value="$PROJECT_DIR$/service-location-service/src/main/java/ServiceLocation.java" />
-        <option value="$PROJECT_DIR$/service-location-service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/service-location-service/src/main/java/ServiceLocationRepository.java" />
-        <option value="$PROJECT_DIR$/service-location-service/src/main/java/ServiceLocationBulkUploadController.java" />
-        <option value="$PROJECT_DIR$/service-location-service/src/main/java/ServiceLocationServiceApplication.java" />
-        <option value="$PROJECT_DIR$/fleet-location-service/src/main/java/code/UnitInfo.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/code/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/service-location-service/src/main/java/code/ServiceLocationServiceApplication.java" />
-        <option value="$PROJECT_DIR$/dashboard/src/main/java/code/RestApi.java" />
-        <option value="$PROJECT_DIR$/dashboard/pom.xml" />
-        <option value="$PROJECT_DIR$/service-location-service/pom.xml" />
-        <option value="$PROJECT_DIR$/platform/pom.xml" />
-        <option value="$PROJECT_DIR$/fleet-eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/code/web/WebSocketApi.java" />
-        <option value="$PROJECT_DIR$/fleet-location-ingest/src/main/java/code/FleetLocationIngestApplication.java" />
-        <option value="$PROJECT_DIR$/fleet-location-ingest/src/main/java/code/VehiclePositionsSource.java" />
-        <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/code/FleetLocationUpdaterApplication.java" />
-        <option value="$PROJECT_DIR$/fleet-location-ingest/pom.xml" />
         <option value="$PROJECT_DIR$/fleet-location-updater/src/main/java/code/FleetLocationUpdaterSink.java" />
         <option value="$PROJECT_DIR$/fleet-location-service/pom.xml" />
         <option value="$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/GpsSimulatorApplication.java" />
@@ -293,7 +332,35 @@
         <option value="$PROJECT_DIR$/supply-location-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/running-location-service/pom.xml" />
         <option value="$PROJECT_DIR$/supply-location-service/pom.xml" />
+        <option value="$PROJECT_DIR$/running-location-simulator/pom.xml" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPositionService.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/running-location-distribution/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/CurrentPosition.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/DirectionInput.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/FaultCode.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/GpsSimulatorRequest.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/Leg.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/Point.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/PositionInfo.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/RunnerStatus.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/SimulatorFixture.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/SupplyLocation.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/rest/LocationSimulatorRestApi.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultGpsSimulatorFactory.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPathService.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/GpsSimulatorFactory.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/PathService.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/PositionService.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/support/FaultCodeUtils.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/support/NavUtils.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/task/GpsSimulator.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/task/GpsSimulatorInstance.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/java/code/GpsSimulatorApplication.java" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/resources/directions.json" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/resources/fixture.json" />
+        <option value="$PROJECT_DIR$/running-location-simulator/src/main/resources/public/index.html" />
       </list>
     </option>
   </component>
@@ -342,7 +409,80 @@
             <path>
               <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="running-location-service" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-distribution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-distribution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocationMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="running-location-simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LocationMonitoringSystem" type="b2602c69:ProjectViewProjectNode" />
@@ -540,12 +680,12 @@
       <workItem from="1511731784711" duration="1671000" />
       <workItem from="1511733810818" duration="3791000" />
       <workItem from="1512257859887" duration="24601000" />
-      <workItem from="1512521518478" duration="763000" />
+      <workItem from="1512521518478" duration="3757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64600000" />
+    <option name="totallyTimeSpent" value="67594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -597,192 +737,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/running-location-service/upload-fleet.sh" />
-    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/src/main/java/code/VehiclePositionsSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/src/main/java/code/FleetLocationIngestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-updater/src/main/java/code/FleetLocationUpdaterSink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-updater/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/java/code/DashboardApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/src/main/java/code/GpsSimulatorApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-matte.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/copy of rentme_logo_ent_horiz_RGB.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/copy of pivotal_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/cancel_search.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-matte@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-shadow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-plain.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-shadow@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/bcg_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/webjars/leaflet/0.7.5/leaflet-0.7.5.jar!/META-INF/resources/webjars/leaflet/0.7.5/leaflet-src.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14837">
-          <caret line="3575" column="8" lean-forward="false" selection-start-line="3575" selection-start-column="8" selection-end-line="3575" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/js/dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-ingest/src/main/resources/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/js/pages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/wrench@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/search_glyph.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/wrench.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/static/images/markers-soft@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fleet-location-simulator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.3.0.RELEASE/spring-boot-starter-data-jpa-1.3.0.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/running-location-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/running-location-service/src/main/java/code/RunningLocationServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -888,14 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/running-location-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -917,18 +863,385 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/supply-location-service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/running-location-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="195">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-339">
-          <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-distribution/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/DirectionInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/FaultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/Leg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/ServiceLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/RunnerStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/VehicleStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/SupplyLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#603#630#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/SimulatorFixture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/PositionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/GpsSimulatorRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="103" column="1" lean-forward="false" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1518#1519#0" expanded="true" />
+            <element signature="e#1566#1567#0" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1738#1739#0" expanded="true" />
+            <element signature="e#1790#1791#0" expanded="true" />
+            <element signature="e#1835#1836#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2016#2017#0" expanded="true" />
+            <element signature="e#2048#2049#0" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2140#2141#0" expanded="true" />
+            <element signature="e#2179#2180#0" expanded="true" />
+            <element signature="e#2211#2212#0" expanded="true" />
+            <element signature="e#2264#2265#0" expanded="true" />
+            <element signature="e#2306#2307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/model/CurrentPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/rest/LocationSimulatorRestApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1149">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#2366#2367#0" expanded="true" />
+            <element signature="e#2409#2410#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
+            <element signature="e#3140#3141#0" expanded="true" />
+            <element signature="e#3234#3235#0" expanded="true" />
+            <element signature="e#3289#3290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultGpsSimulatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPathService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1421#1422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/PositionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/PathService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/GpsSimulatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/service/impl/DefaultPositionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/support/FaultCodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/support/NavUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/task/GpsSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3519">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#4444#4445#0" expanded="true" />
+            <element signature="e#4479#4480#0" expanded="true" />
+            <element signature="e#6692#6693#0" expanded="true" />
+            <element signature="e#6725#6726#0" expanded="true" />
+            <element signature="e#6825#6826#0" expanded="true" />
+            <element signature="e#6864#6865#0" expanded="true" />
+            <element signature="e#6911#6912#0" expanded="true" />
+            <element signature="e#6956#6957#0" expanded="true" />
+            <element signature="e#6993#6994#0" expanded="true" />
+            <element signature="e#7037#7038#0" expanded="true" />
+            <element signature="e#7121#7122#0" expanded="true" />
+            <element signature="e#7154#7155#0" expanded="true" />
+            <element signature="e#7270#7271#0" expanded="true" />
+            <element signature="e#7314#7315#0" expanded="true" />
+            <element signature="e#7355#7356#0" expanded="true" />
+            <element signature="e#7392#7393#0" expanded="true" />
+            <element signature="e#7572#7573#0" expanded="true" />
+            <element signature="e#7604#7605#0" expanded="true" />
+            <element signature="e#7652#7653#0" expanded="true" />
+            <element signature="e#7687#7688#0" expanded="true" />
+            <element signature="e#7755#7756#0" expanded="true" />
+            <element signature="e#7806#7807#0" expanded="true" />
+            <element signature="e#7833#7834#0" expanded="true" />
+            <element signature="e#7858#7859#0" expanded="true" />
+            <element signature="e#7892#7893#0" expanded="true" />
+            <element signature="e#7920#7921#0" expanded="true" />
+            <element signature="e#7971#7972#0" expanded="true" />
+            <element signature="e#8015#8016#0" expanded="true" />
+            <element signature="e#8051#8052#0" expanded="true" />
+            <element signature="e#8084#8085#0" expanded="true" />
+            <element signature="e#8129#8130#0" expanded="true" />
+            <element signature="e#8164#8165#0" expanded="true" />
+            <element signature="e#8226#8227#0" expanded="true" />
+            <element signature="e#8274#8275#0" expanded="true" />
+            <element signature="e#8316#8317#0" expanded="true" />
+            <element signature="e#8353#8354#0" expanded="true" />
+            <element signature="e#8414#8415#0" expanded="true" />
+            <element signature="e#8466#8467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/task/GpsSimulatorInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/java/code/GpsSimulatorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supply-location-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/resources/fixture.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2693">
+          <caret line="180" column="1" lean-forward="false" selection-start-line="180" selection-start-column="1" selection-end-line="180" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/resources/directions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/src/main/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running-location-simulator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding />
         </state>
       </provider>

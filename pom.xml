@@ -18,8 +18,8 @@
 
     <modules>
         <module>running-location-service</module>
-        <module>fleet-location-simulator</module>
-        <module>fleet-location-ingest</module>
+        <module>running-location-simulator</module>
+        <module>running-location-distribution</module>
         <module>fleet-location-updater</module>
         <module>dashboard</module>
         <module>supply-location-service</module>
