@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @EnableBinding(Source.class)
 @RestController
-public class VehiclePositionsSource {
+public class RunnerPositionsSource {
 
     @Autowired
     private MessageChannel output;
