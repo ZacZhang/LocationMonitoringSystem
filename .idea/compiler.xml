@@ -14,6 +14,7 @@
         <module name="fleet-location-updater" />
         <module name="running-location-service" />
         <module name="service-location-service" />
+        <module name="supply-location-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="platform" target="1.8" />
       <module name="running-location-service" target="1.8" />
       <module name="service-location-service" target="1.5" />
+      <module name="supply-location-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

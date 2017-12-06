@@ -11,6 +11,7 @@ public interface LocationRepository extends PagingAndSortingRepository<Location,
     @RestResource(rel = "by-service-type")
     Page<Location> findByServiceType(@Param("type") String type, Pageable pageable);
 
+    // locations/runningId?runningId=36728778
     @RestResource(path = "runningId", rel = "by-runningId")
     Page<Location> findByUnitInfoRunningId(@Param("runningId") String runningId, Pageable pageable);
 

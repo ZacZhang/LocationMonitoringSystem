@@ -1,7 +1,8 @@
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/FleetBulkUploadController.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/FleetLocationServiceApplication.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/UnitFault.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/LocationRepository.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/UnitInfo.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/FaultCode.java
-/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/fleet-location-service/src/main/java/code/Location.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/RunningLocationServiceApplication.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/Location.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/UnitInfo.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/FaultCode.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/MedicalInfo.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/RunningBulkUploadController.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/LocationRepository.java
+/Users/zhangzhichao/IdeaProjects/LocationMonitoringSystem/running-location-service/src/main/java/code/RunningLocationServiceRestController.java

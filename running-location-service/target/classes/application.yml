@@ -2,4 +2,4 @@ server:
   port: 9000
 spring:
   application:
-    name: fleet-location-code.service
+    name: running-location-service
