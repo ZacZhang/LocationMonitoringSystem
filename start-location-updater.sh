@@ -1,1 +1,1 @@
-java -jar fleet-location-updater/target/fleet-location-updater-1.0-SNAPSHOT.jar
+java -jar running-location-updater/target/running-location-updater-1.0.0.BUILD-SNAPSHOT.jar
