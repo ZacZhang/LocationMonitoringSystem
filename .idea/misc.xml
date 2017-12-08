@@ -8,6 +8,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/fleet-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/platform/pom.xml" />
       </set>
