@@ -2,6 +2,11 @@ package code;
 
 import java.util.Date;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.Data;
+
 import javax.persistence.AttributeOverride;
 import javax.persistence.AttributeOverrides;
 import javax.persistence.Column;
@@ -9,13 +14,8 @@ import javax.persistence.Embedded;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
-import lombok.Data;
-import lombok.RequiredArgsConstructor;
-
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.fasterxml.jackson.annotation.JsonInclude;
-import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.Date;
+import java.util.concurrent.ThreadLocalRandom;
 
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
@@ -87,8 +87,8 @@ public class Location {
         return this.unitInfo == null ? null : this.unitInfo.getRunningId();
     }
 
-//    public int getHeartRate() {
-//        return ThreadLocalRandom.current().nextInt(50, 160);
-//    }
+    public int getHeartRate() {
+        return ThreadLocalRandom.current().nextInt(50, 160);
+    }
 
 }
